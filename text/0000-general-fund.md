@@ -83,7 +83,7 @@ Everyone is welcome to weigh in on the merits of a funding request in the forum 
 
 ## Tips on effective proposals
 
-* You proposal is likely to be better received if you're already known to the Grin community or the wider cryptocurrency community. Even more so if you've already contributed to Grin in some meaningful way.
+* Your proposal is likely to be better received if you're already known to the Grin community or the wider cryptocurrency community. Even more so if you've already contributed to Grin in some meaningful way.
 * It might be better to keep your initial funding request small and focused, particularly if your idea is something new and radical, or if you're unknown to the Grin community.
 * Be specific, professional and thorough with your proposal.
 * Be respectful and professional in your response to any feedback and criticism on the proposal thread 
